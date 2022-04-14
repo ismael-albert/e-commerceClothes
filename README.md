@@ -1,2 +1,2 @@
-# e-commerceClothes
-Loja Virtual de roupas
+# food delivery
+Um sistema de delivery com painel administrativo para receber pedidos, e sistema de cadastro de lanches.
